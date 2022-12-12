@@ -8,3 +8,4 @@
 5. Deadshot
 6. Harley Queen
 7. Otro villano x
+8. Otro villano y
